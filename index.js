@@ -3,10 +3,9 @@ let divide = function(){
 }
 divide ()
 
- let square = (parameter1) => {
-    return  parameter1 * parameter1;
+ let square = (parameter1) =>  parameter1 * parameter1;
 
- }
+ 
  let add = (num1, num2) =>{
 
     return num1+ num2;
